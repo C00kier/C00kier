@@ -48,7 +48,7 @@ Other Tools:
 - English Intermediate
 - Polish  Native
 
-## I am currently working on:
+## I was working on:
 ### 🌱 Sprout
 Sprout is an app designed for plant lovers that helps them remember to care for their plants.
 
@@ -56,13 +56,25 @@ Users have access to:
 - a blog with articles about plants
 - recommendation informing the user which plants are suitable for his home
 - plant care system, including reminders about the need to water, fertilize and replant plants
-- assigning plants to rooms and giving them personalized names.
-
-Additionally, we are working on a gamification system to make using the application even more enjoyable.
+- assigning plants to rooms and giving them personalized names
 
 - **Frontend Link:** [click here](https://github.com/C00kier/Sprout-frontend)
 - **Backend Link:** [click here](https://github.com/C00kier/Sprout-backend)
 
+## I am currently working on:
+### 🗻 Minecraft plugins for server BLACKMC.PL
+Last few months i worked on multiple plugins for new guild mode. We are currently in testing phase, before release.
+
+Some of the features:
+- guild upgrades
+- guild guardians - custom mobs that guild members can give basic commands and are protecting players base
+- universal box system - allows to add multiple different boxes that will drop from activities like breaking blocks, killing certain type of mobs or fishing. Each box is fully customizable via configuration file. User can set what items will drop from box, the way player can obtain box, name of the box, sounds for opening, box model, additional chance to obtain box for defined permissions.
+- set of items with unique behaviour
+
+I've also create few plugins that are currently working on server:
+- yrden, vampirism rune (which are adding new combat skills)
+- lobby PVP mode
+- GUI for ProtectionStones plugin
+
 ## How to contact with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawelmateuszignaczak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-ignaczak-2320832b0/)
