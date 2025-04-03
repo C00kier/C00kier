@@ -68,7 +68,7 @@ Last few months i worked on multiple plugins for new guild mode. We are currentl
 Some of the features:
 - guild upgrades
 - guild guardians - custom mobs that guild members can give basic commands and are protecting players base
-- universal box system - allows to add multiple different boxes that will drop from activities like breaking blocks, killing certain type of mobs or fishing. Each box is fully customizable via configuration file. User can set what items will drop from box, the way player can obtain box, name of the box, sounds for opening, box model, additional chance to obtain box for defined permissions.
+- universal box system - allows to add multiple different boxes that will drop from activities like breaking blocks, killing certain type of mobs or fishing. Each box is fully customizable via configuration file.
 - set of items with unique behaviour
 
 I've also create few plugins that are currently working on server:
