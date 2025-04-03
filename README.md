@@ -62,7 +62,7 @@ Users have access to:
 
 ## I am currently working on:
 ### 🗻 Minecraft plugins for server BLACKMC.PL
-Last few months i worked on multiple plugins for new guild mode. We are currently in testing phase, before release.
+Over the past few months, I have developed multiple plugins for a new guild mode. We are currently in the testing phase before release.
 
 Some of the features:
 - guild upgrades
@@ -70,9 +70,9 @@ Some of the features:
 - universal box system - allows to add multiple different boxes that will drop from activities like breaking blocks, killing certain type of mobs or fishing. Each box is fully customizable via configuration file.
 - set of items with unique behaviour
 
-I've also create few plugins that are currently working on server:
-- yrden, vampirism rune (which are adding new combat skills)
-- lobby PVP mode
+I have also created several plugins that are currently running on the server:
+- Yrden, Vampirism rune (which are adding new combat skills)
+- PVP mode for our lobby
 - GUI for ProtectionStones plugin
 
 ## How to contact with me:
