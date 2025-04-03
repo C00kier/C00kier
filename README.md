@@ -3,7 +3,6 @@
 
 ### About me:
 - 🌱 I am a Junior Full Stack Developer
-- ⚡ I'm currently focusing on learning advanced React
 - 😄 I like taking on new challenges in life
 - 🤝 I can work in a group and do not give up easily in assigned tasks
 - ✨ Fun fact: I started my programming adventure as a self-taught learner with Python and C#
