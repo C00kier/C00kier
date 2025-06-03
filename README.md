@@ -57,8 +57,9 @@ Users have access to:
 - plant care system, including reminders about the need to water, fertilize and replant plants
 - assigning plants to rooms and giving them personalized names
 
-- **Frontend Link:** [click here](https://github.com/C00kier/Sprout-frontend)
-- **Backend Link:** [click here](https://github.com/C00kier/Sprout-backend)
+**Backend Link:** [click here](https://github.com/C00kier/Sprout-backend)
+
+**Frontend Link:** [click here](https://github.com/C00kier/Sprout-frontend)
 
 ## I am currently working on:
 ### 🗻 Minecraft plugins for server BLACKMC.PL
