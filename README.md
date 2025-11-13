@@ -44,39 +44,56 @@ Other Tools:
 - Adaptability
   
 ## Languages:
-- English Intermediate
-- Polish  Native
+- 🇬🇧 English B2/C1  
+- 🇵🇱 Polish C2
+  
+## I am currently learning:
+- **CompTIA Security+** — strengthening my knowledge in cybersecurity and secure web development practices.
 
 ## I was working on:
-### 🌱 Sprout
+### 🌱 Sprout (JavaScript, React, Spring)
 Sprout is an app designed for plant lovers that helps them remember to care for their plants.
 
 Users have access to:
-- a blog with articles about plants
-- recommendation informing the user which plants are suitable for his home
-- plant care system, including reminders about the need to water, fertilize and replant plants
-- assigning plants to rooms and giving them personalized names
+- Blog with articles about plants
+- Plant recommendations based on home conditions
+- Plant care system with reminders to water, fertilize, and replant
+- Assigning plants to rooms with personalized names
 
 **Backend Link:** [click here](https://github.com/C00kier/Sprout-backend)
 
 **Frontend Link:** [click here](https://github.com/C00kier/Sprout-frontend)
 
-## I am currently working on:
-### 🗻 Minecraft plugins for server BLACKMC.PL
-Over the past few months, I have developed multiple plugins for a guild mode.
+### 🗻 Minecraft plugins for server BLACKMC.PL (Java, Bukkit)
+I developed multiple plugins for a guild mode based on funny guilds plugin.
 
-Some of the features:
+**Guild mode features:**
 - Guild upgrades
-- Guild guardians - custom mobs that guild members can give basic commands and are protecting players base
-- Universal reward box system - allows to add multiple different boxes that will drop from activities like breaking blocks, killing certain type of mobs or fishing. Each box and it's drop is fully customizable via configuration file.
-- Set of items with unique behaviour
+- Guild guardians — custom mobs with basic commands to protect player bases
+- Universal reward box system — customizable boxes triggered by activities (block breaking, mob kills, fishing)  
 
-I have also created several plugins for survival + rpg mode:
-- Yrden, Vampirism rune (which are adding new combat skills)
-- PVP mode for our lobby
-- GUI for ProtectionStones plugin
+**Survival / RPG mode features:**
+- Yrden and Vampirism runes — add new combat skills  
+- PVP mode for server lobby  
+- GUI for ProtectionStones plugin  
 - Property review system
-- Player recommendation system connected with mySQL database
+- Player recommendation system connected to MySQL database
+  
+### 🚗 Autoplewa.pl (TypeScript, Vue.js, Slim PHP)
+AutoPlewa is a responsive car rental website developed within 3 weeks.
+
+The client required a lightweight platform to easily publish available vehicles for rent, along with company details and a contact form.
+The site was fully optimized for mobile devices to ensure a smooth experience across different screen sizes.
+
+A custom-built admin panel enables:
+- creating, editing, and deleting vehicle categories
+- managing vehicle listings (add, edit, remove)
+- toggling vehicle visibility on the public fleet page
+
+W.I.P. 🎥 [**Demo Video (YouTube)**]()  
+🌐 [**Live Website**](https://autoplewa.pl)  
+
+> *Note: I was responsible for the initial development of the website. The current live version may differ from the original implementation.*
 
 ## How to contact with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawelmateuszignaczak@gmail.com)
