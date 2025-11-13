@@ -78,6 +78,9 @@ I developed multiple plugins for a guild mode based on funny guilds plugin.
 - GUI for ProtectionStones plugin  
 - Property review system
 - Player recommendation system connected to MySQL database
+
+**Custom Library**
+- Built a custom [**Bukkit library**](https://github.com/C00kier/CookiersLib) to simplify plugin development and enable code reuse across multiple plugins
   
 ### 🚗 Autoplewa.pl (TypeScript, Vue.js, Slim PHP)
 AutoPlewa is a responsive car rental website developed within 3 weeks.
